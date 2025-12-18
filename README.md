@@ -10,15 +10,6 @@
 
 <br />
 
----
-
-### 🏆 My Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pierre265&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Pierre's Trophies" />
-</div>
-
----
 
 ### 👤 About Me
 

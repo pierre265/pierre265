@@ -1,73 +1,55 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pierre265.pierre265" />
+<div align="center">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pierre265.pierre265" />
+  <h1>Hi there! I'm Pierre YOSSA 👋</h1>
+  <p><strong>Fullstack Software Developer | Passionate about building scalable web solutions</strong></p>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pierre+YOSSA!;" />
-</h1>
+  <a href="https://www.linkedin.com/in/pierre-yossa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pierreyossa8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="TON_LIEN_CV_ICI"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
+</div>
 
-<h3 align="center">A passionate software developer</h3>
+<br />
 
-<br/>
+---
+
+### 👤 About Me
+
+- 🔭 **Current Focus:** Building a robust **Marketplace platform**.
+- 🌱 **Learning:** Deep diving into **Docker, AWS, and IoT** to master cloud architectures.
+- 💬 **Ask me about:** Node.js, React, Firebase, or SQL performance.
+- ⚡ **Fun Fact:** Game of Thrones Night's Watch cloaks are actually made from Ikea rugs!
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,mui,html,css" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,flask,firebase,mongodb,mysql" /> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,r" /> |
+| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,figma" /> |
+
+---
+
+### 📊 GitHub Activity & Stats
 
 <div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, IOT, AWS**
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pierre265&show_icons=true&theme=react&border_radius=10" alt="Pierre's Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierre265&layout=compact&theme=react&border_radius=10&hide=html,css" alt="Top Languages" />
+</div>
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/pierre265/pierre265/issues)**
+<br />
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/pierre265/pierre265/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:pierreyossa8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+---
+
+<div align="center">
+  <p>If you like my work, feel free to support me!</p>
+  <a href="https://ko-fi.com/V7V4RAK9C" target="_blank">
+    <img height="40" src="https://storage.ko-fi.com/cdn/kofi1.png?v=3" border="0" alt="Buy Me a Coffee" />
   </a>
-  <a href="https://www.linkedin.com/in/pierre-yossa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
 </div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/pierre265/pierre265/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>

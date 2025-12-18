@@ -12,6 +12,14 @@
 
 ---
 
+### 🏆 My Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pierre265&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="Pierre's Trophies" />
+</div>
+
+---
+
 ### 👤 About Me
 
 - 🔭 **Current Focus:** Building a robust **Marketplace platform**.
@@ -40,10 +48,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/pierre265/pierre265/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 ---
 
